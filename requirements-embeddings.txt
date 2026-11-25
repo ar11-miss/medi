@@ -1,0 +1,3 @@
+# Optional: adds multilingual embeddings to RAG retrieval (hybrid search).
+# Large download (~1 GB with PyTorch). MediAid works without it.
+sentence-transformers>=3.0

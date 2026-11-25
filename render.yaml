@@ -1,0 +1,21 @@
+# One-click deploy on Render (https://render.com): New > Blueprint > pick this repo.
+services:
+  - type: web
+    name: mediaid
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: GROQ_API_KEY
+        sync: false          # paste your key in the Render dashboard
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      - key: GROQ_FAST_MODEL
+        value: openai/gpt-oss-20b
+      - key: GEOAPIFY_API_KEY
+        sync: false          # free key from myprojects.geoapify.com (doctor finder)
+      - key: GOOGLE_PLACES_API_KEY
+        sync: false          # optional

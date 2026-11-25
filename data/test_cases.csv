@@ -1,0 +1,61 @@
+id,language,text,gold_level,gold_specialty
+E01,en,"I'm 24, male. Runny nose, sneezing and a mild sore throat since yesterday. No fever. Discomfort about 2/10. No medicines, no allergies.",green,General Physician
+E02,en,"28-year-old woman, not pregnant. Mild headache since this afternoon after working long hours on the laptop, 3/10, no other symptoms.",green,General Physician
+E03,en,"I'm 35. Acidity and sour burps after eating spicy food last night, mild upper stomach discomfort, 2/10, no vomiting.",green,General Physician
+E04,en,"20-year-old male. Small cut on my finger from a kitchen knife, bleeding stopped after pressing for a few minutes, wound is clean.",green,General Physician
+E05,en,"I'm 30. Had 2 loose motions today after eating street food, no blood, no fever, I can drink water normally.",green,General Physician
+E06,en,"42-year-old man. Fever of 38.5 C and body ache for 3 days, cough with some phlegm, eating and drinking okay, breathing normal.",yellow,General Physician
+E07,en,"25-year-old woman, not pregnant. Burning while urinating and going very often for 2 days, no fever, no back pain.",yellow,General Physician
+E08,en,"33-year-old. Itchy, red, ring-shaped rash on my thigh that has been spreading for 2 weeks. No fever.",yellow,Dermatologist
+E09,en,"19-year-old. Pain in my right ear for 3 days after swimming, slight fever, pain 6/10, hearing a bit muffled.",yellow,ENT Specialist
+E10,en,"50-year-old woman. Knee pain when climbing stairs for a month, slight swelling, I can walk normally on flat ground.",yellow,Orthopedic
+E11,en,"38-year-old man in Pune. High fever of 39.8 C for 4 days, severe headache, pain behind the eyes, strong body pain and small red spots on the arms.",orange,General Physician
+E12,en,"27-year-old. Red, painful left eye with blurry vision since yesterday after dust went into it, pain 7/10, light hurts.",orange,Ophthalmologist
+E13,en,"29-year-old woman, 10 weeks pregnant. Vomiting many times a day for 3 days, can't keep food or water down, feeling dizzy.",orange,Gynecologist
+E14,en,"My 3-year-old son has had a fever of 39.5 C for 2 days, keeps pulling his ear, is not eating and is less active than usual.",orange,Pediatrician
+E15,en,"55-year-old man. Severe pain in the right lower back going to the groin, comes in waves, 8/10, blood in urine since this morning.",orange,Urologist
+E16,en,"58-year-old man. Crushing chest pain spreading to the left arm for 20 minutes, sweating a lot.",red,Emergency Department
+E17,en,"My 65-year-old mother suddenly has her face drooping on one side and slurred speech, it started 30 minutes ago.",red,Emergency Department
+E18,en,"My 8-year-old with a peanut allergy ate a cookie, now his lips and tongue are swelling and he is struggling to breathe.",red,Emergency Department
+E19,en,"30-year-old. Sudden severe headache, the worst of my life, started a few minutes ago, with vomiting.",red,Emergency Department
+E20,en,"22-year-old fell off his bike and hit his head, was unconscious for a minute, now confused and vomiting.",red,Emergency Department
+H01,hi,"मेरी उम्र 26 साल है, पुरुष। कल से नाक बह रही है और छींकें आ रही हैं, बुखार नहीं है, तकलीफ़ 2/10।",green,General Physician
+H02,hi,"मैं 31 साल की महिला हूँ, गर्भवती नहीं। मसालेदार खाना खाने के बाद पेट में जलन और खट्टी डकारें आ रही हैं, 3/10।",green,General Physician
+H03,hi,"उम्र 22 साल। मच्छर के काटने से हाथ पर खुजली वाले छोटे दाने हैं, और कोई तकलीफ़ नहीं है।",green,General Physician
+H04,hi,"मैं 40 साल का हूँ। कल भारी सामान उठाया था, आज कंधे में हल्का दर्द है, 3/10, हाथ ठीक से हिलता है।",green,General Physician
+H05,hi,"उम्र 27 साल। दो दिन से गले में हल्की खराश है, खाना निगल पा रहा हूँ, बुखार नहीं है।",green,General Physician
+H06,hi,"उम्र 45 साल, पुरुष। 4 दिन से 38.4 डिग्री बुखार और सूखी खांसी है, थकान है, सांस ठीक है।",yellow,General Physician
+H07,hi,मैं 34 साल की महिला हूँ। 3 हफ़्ते से चेहरे और पीठ पर दर्द वाले मुहांसे बढ़ते जा रहे हैं।,yellow,Dermatologist
+H08,hi,"उम्र 52 साल। एक महीने से कमर के निचले हिस्से में दर्द है, बैठने पर बढ़ता है, पैरों में सुन्नपन नहीं है।",yellow,Orthopedic
+H09,hi,"उम्र 29 साल। एक हफ़्ते से दांत में दर्द है, ठंडा पानी पीने पर तेज़ झनझनाहट होती है, 5/10।",yellow,Dentist
+H10,hi,"उम्र 36 साल। 10 दिन से नाक बंद है, माथे और गालों में भारीपन और दर्द है, पीला बलगम आ रहा है।",yellow,ENT Specialist
+H11,hi,"मेरे 2 साल के बेटे को 3 दिन से दिन में 8-10 बार दस्त हो रहे हैं, आज पेशाब बहुत कम हुई और वह सुस्त है।",orange,Pediatrician
+H12,hi,"उम्र 48 साल, डायबिटीज़ है। 3 दिन से बहुत प्यास लग रही है, बार-बार पेशाब, शुगर 380 आ रही है, बहुत कमज़ोरी है।",orange,Endocrinologist
+H13,hi,"उम्र 26 साल, कॉन्टैक्ट लेंस पहनती हूँ। 2 दिन से आंख लाल है, दर्द है, रोशनी में चुभन होती है और धुंधला दिख रहा है।",orange,Ophthalmologist
+H14,hi,"मैं 5 महीने की गर्भवती हूँ, उम्र 28 साल। 2 दिन से पेशाब में जलन है और हल्का बुखार है।",orange,Gynecologist
+H15,hi,"उम्र 62 साल। 2 दिन से 39.5 डिग्री तेज़ बुखार, ठंड लगकर कंपकंपी, बलगम वाली खांसी और सांस थोड़ी फूल रही है।",orange,Pulmonologist
+H16,hi,"उम्र 55 साल। अचानक सीने में तेज़ दबाव जैसा दर्द, पसीना आ रहा है और दर्द जबड़े तक जा रहा है, 15 मिनट से।",red,Emergency Department
+H17,hi,"मेरे पिताजी 70 साल के हैं, अचानक दाएं हाथ और पैर में कमज़ोरी आ गई है और वे बोल नहीं पा रहे।",red,Emergency Department
+H18,hi,"उम्र 25 साल, अस्थमा है। इनहेलर लेने के बाद भी सांस बहुत फूल रही है, बोल नहीं पा रहा, होंठ नीले पड़ रहे हैं।",red,Emergency Department
+H19,hi,"मेरी 1 साल की बेटी को बुखार के साथ 5 मिनट से ज़्यादा झटके आए, अब वह ठीक से जाग नहीं रही।",red,Emergency Department
+H20,hi,"उम्र 40 साल। दो बार खून की उल्टी हुई है और मल काला आ रहा है, चक्कर आ रहे हैं।",red,Emergency Department
+M01,mr,"माझं वय 23 आहे, पुरुष. कालपासून सर्दी आणि शिंका येत आहेत, ताप नाही, त्रास 2/10.",green,General Physician
+M02,mr,"मी 29 वर्षांची आहे, गर्भवती नाही. आज दुपारपासून थोडं डोकं दुखतंय, रात्री झोप कमी झाली होती, 3/10.",green,General Physician
+M03,mr,"वय 35. तेलकट जेवणानंतर पोटात जळजळ आणि आंबट ढेकर येत आहेत, 2/10, उलटी नाही.",green,General Physician
+M04,mr,"वय 21. खेळताना गुडघ्याला खरचटलं, थोडं रक्त आलं आणि थांबलं, जखम लहान आणि स्वच्छ आहे.",green,General Physician
+M05,mr,"वय 32. आज दोन वेळा जुलाब झाले, रक्त नाही, ताप नाही, पाणी नीट पिता येतंय.",green,General Physician
+M06,mr,"वय 44. तीन दिवसांपासून 38.3 ताप आणि अंगदुखी आहे, थोडा खोकला आहे, खाणं-पिणं ठीक आहे.",yellow,General Physician
+M07,mr,"वय 27. दोन आठवड्यांपासून मांडीवर गोल, लाल, खाज येणारं पुरळ पसरत आहे.",yellow,Dermatologist
+M08,mr,वय 18. चार दिवसांपासून डाव्या कानात दुखतंय आणि थोडं कमी ऐकू येतंय.,yellow,ENT Specialist
+M09,mr,"वय 26, स्त्री, गर्भवती नाही. दोन दिवसांपासून लघवीला जळजळ होते आणि वारंवार लघवीला जावं लागतं.",yellow,General Physician
+M10,mr,"वय 55. सहा आठवड्यांपासून खांदा दुखतोय, हात नीट वर करता येत नाही.",yellow,Orthopedic
+M11,mr,"माझ्या 4 वर्षांच्या मुलीला दोन दिवसांपासून 39.4 ताप आहे, ती खात नाही आणि खूप सुस्त आहे.",orange,Pediatrician
+M12,mr,"वय 40. चार दिवसांपासून 39.6 ताप, डोळ्यांच्या मागे दुखतं, अंगावर लाल ठिपके आले आहेत आणि अंगदुखी खूप आहे.",orange,General Physician
+M13,mr,"वय 50. एका दिवसापासून पोटाच्या उजव्या वरच्या भागात तीव्र दुखणं, जेवणानंतर वाढतं, उलटी झाली, 7/10.",orange,Gastroenterologist
+M14,mr,"वय 33, सहा महिन्यांची गर्भवती. दोन दिवसांपासून बाळाची हालचाल कमी जाणवत आहे.",orange,Gynecologist
+M15,mr,वय 46. आजपासून अचानक डाव्या डोळ्यासमोर काळे ठिपके आणि प्रकाशाचे झोत दिसत आहेत.,orange,Ophthalmologist
+M16,mr,"वय 60. छातीत खूप दाब आणि दुखणं, डाव्या हातात जातंय, घाम येतोय, 20 मिनिटांपासून.",red,Emergency Department
+M17,mr,माझ्या आजींचा चेहरा अचानक एका बाजूला वाकडा झाला आणि बोलणं अस्पष्ट झालं आहे.,red,Emergency Department
+M18,mr,"वय 30. मधमाशी चावल्यावर अंगभर पुरळ आलं, घसा सुजल्यासारखा वाटतोय आणि श्वास घ्यायला त्रास होतोय.",red,Emergency Department
+M19,mr,"वय 24. अपघातात डोक्याला मार लागला, काही वेळ बेशुद्ध होता, आता उलट्या होत आहेत.",red,Emergency Department
+M20,mr,"वय 35. पोटात अचानक खूप तीव्र दुखणं, पोट कडक झालंय, उलट्या आणि ताप आहे, 10/10.",red,Emergency Department

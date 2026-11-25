@@ -1,0 +1,43 @@
+id,language,query,gold_entry
+R01,en,My nose keeps running and I can't stop sneezing since morning,common_cold
+R02,hi,कल से नाक बह रही है और छींकें आ रही हैं,common_cold
+R03,mr,"मला सर्दी झाली आहे, नाक गळतंय",common_cold
+R04,en,I have had a temperature of 38 degrees since last night with body ache,viral_fever
+R05,hi,रात से हल्का बुखार है और बदन दर्द हो रहा है,viral_fever
+R06,mr,कालपासून ताप आहे आणि अंगदुखी होतेय,viral_fever
+R07,en,My head has been aching all afternoon after staring at my laptop,tension_headache
+R08,hi,"दोपहर से सिर में दर्द है, शायद नींद कम हुई",tension_headache
+R09,mr,सकाळपासून डोकं दुखतंय,tension_headache
+R10,en,Burning feeling in my upper stomach and sour burps after a spicy dinner,acidity
+R11,hi,खाने के बाद पेट में जलन और खट्टी डकारें आ रही हैं,acidity
+R12,mr,जेवणानंतर छातीत जळजळ होते आणि आंबट ढेकर येतात,acidity
+R13,en,I've had watery stools four times today after eating outside,loose_motions
+R14,hi,आज सुबह से 3 बार पतले दस्त हुए,loose_motions
+R15,mr,आज दोन वेळा जुलाब झाले,loose_motions
+R16,en,"I haven't been able to pass stool properly for three days, it's very hard",constipation
+R17,hi,तीन दिन से पेट साफ़ नहीं हो रहा,constipation
+R18,mr,दोन दिवसांपासून पोट साफ होत नाही,constipation
+R19,en,It hurts when I swallow and my throat feels scratchy,sore_throat
+R20,hi,गले में खराश है और निगलने में दर्द होता है,sore_throat
+R21,mr,घसा खवखवतोय आणि गिळताना दुखतं,sore_throat
+R22,en,Every morning I get sneezing fits and itchy watery eyes when I sweep the house,allergy_sneezing
+R23,hi,धूल में जाते ही लगातार छींकें आती हैं और आंखों से पानी आता है,allergy_sneezing
+R24,mr,धुळीमुळे सतत शिंका येतात आणि नाकात खाज येते,allergy_sneezing
+R25,en,"I cut my finger while chopping vegetables, the bleeding has stopped",minor_cut
+R26,hi,"सब्ज़ी काटते समय उंगली कट गई, खून रुक गया है",minor_cut
+R27,mr,"भाजी चिरताना बोट कापलं, रक्त थांबलं आहे",minor_cut
+R28,en,My lower back aches after lifting heavy boxes yesterday,muscle_pain
+R29,hi,जिम के बाद पैरों की मांसपेशियों में दर्द और अकड़न है,muscle_pain
+R30,mr,काल जड सामान उचलल्यामुळे पाठदुखी सुरू झाली,muscle_pain
+R31,en,Lots of itchy red bumps on my legs from mosquito bites,insect_bite
+R32,hi,मच्छर के काटने से हाथों पर खुजली वाले दाने हो गए,insect_bite
+R33,mr,डास चावल्यामुळे पायावर खाज येणारे पुरळ आले,insect_bite
+R34,en,I have two painful sores inside my lower lip,mouth_ulcer
+R35,hi,"मुंह में छाले हो गए हैं, खाना खाने में दर्द होता है",mouth_ulcer
+R36,mr,"तोंड आलंय, तिखट खाल्लं की जळजळ होते",mouth_ulcer
+R37,en,"My knee replacement surgery is next month, how should I prepare?",none
+R38,en,I feel very anxious before my exams,none
+R39,hi,बाल बहुत झड़ रहे हैं,none
+R40,hi,मेरी आंख में कुछ चला गया और धुंधला दिख रहा है,none
+R41,mr,माझे केस खूप गळत आहेत,none
+R42,mr,मला रात्री झोप येत नाही,none
